@@ -49,7 +49,6 @@ Over time, this repository will be expanded with more advanced use cases.
   - Step 4 - Access the main applications
   - Step 5 - Stop wordslab-notebooks
 
-
 ### Tutorial 2 - Open WebUI
 
 - [02_openwebui_chat.ipynb](02_openwebui_chat.ipynb)
@@ -73,9 +72,19 @@ Over time, this repository will be expanded with more advanced use cases.
 
 - [03_jupyterlab-notebooks.ipynb](03_jupyterlab-notebooks.ipynb)
 
-  - Prerequisites - Learn Python, Markdown, and Linux shell
-  - Step 1 - Discover the Jupyterlab development environment
-  - 
+  - Prerequisites - Learn Python, Markdown, Linux shell, Git and Github
+  - Step 1 - Watch or read a short JupyterLab tutorial
+  - Step 2 - Understand the main concepts of Jupyter Notebooks
+  - Step 3 - Discover the JupyterLab User Interface
+  - Step 4 - Discover the JupyterLab extensions
+  - Step 5 - Clone an existing Github repository
+  - Step 6 - Create your own Github repository
+  - Step 7 - Use Jupyter AI
+  - Step 8 - Explore the pre-installed Python packages
+  - Step 9 - Generate text with vLLM
+  - Step 10 - Convert complex documents with Docling
+  - Step 11 - Use Docker with Nvidia GPU support
+  - Step 12 - Develop a Python package with nbdev
 
 ### Tutorial 4 - Visual Studio Code
 
