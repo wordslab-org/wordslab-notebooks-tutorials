@@ -73,11 +73,13 @@ Over time, this repository will be expanded with more advanced use cases.
 
 - [03_jupyterlab-notebooks.ipynb](03_jupyterlab-notebooks.ipynb)
 
-  - Work in  progress ...
+  - Prerequisites - Learn Python, Markdown, and Linux shell
+  - Step 1 - Discover the Jupyterlab development environment
+  - 
 
 ### Tutorial 4 - Visual Studio Code
 
-- [04_visual-studio_code.ipynb](04_visual-studio_code.ipynb])
+- [04_visual-studio_code.ipynb](04_visual-studio_code.ipynb)
 
   - Work in  progress ...
  
