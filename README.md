@@ -77,8 +77,8 @@ Over time, this repository will be expanded with more advanced use cases.
   - Step 2 - Understand the main concepts of Jupyter Notebooks
   - Step 3 - Discover the JupyterLab User Interface
   - Step 4 - Discover the JupyterLab extensions
-  - Step 5 - Clone an existing Github repository
-  - Step 6 - Create your own Github repository
+  - Step 5 - Manage workspace projects
+  - Step 6 - Code with wordslab-notebooks-lib
   - Step 7 - Use Jupyter AI
   - Step 8 - Explore the pre-installed Python packages
   - Step 9 - Generate text with vLLM
